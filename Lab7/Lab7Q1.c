@@ -1,5 +1,5 @@
 /*
-    Lab 8 - Question 1
+    Lab 7 - Question 1
 
     Assuming an integer array called ‘arr’ with 10 elements, what is in arr[8] after the
     following code is executed?
